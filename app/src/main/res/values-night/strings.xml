@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo">logo</string>
+    <string name="from_gallery">From gallery</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="posting">Posting Now</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="invalid_email">Invalid Email</string>
+</resources>
